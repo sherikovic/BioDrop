@@ -1,0 +1,21 @@
+{
+    "name": "Sherif Amer",
+    "bio": "An electronics to software convert...",
+    "links": [
+        {
+            "name": "Codez",
+            "url": "https://github.com/sherikovic",
+            "icon": "FaGithub"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/sherifamer/",
+            "icon": "FaLinkedin"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/sherikovic/",
+            "icon": "FaInstagram"
+        }
+    ]
+}
